@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: palm1
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: palm
+    m_Hash: -114956327
+    m_CategoryList:
+    - m_Name: palm1
+      m_Hash: 2083168288
+      m_Sprite: {fileID: 6527761118515139818, guid: 9df34fab39d559a4a81302e4062f361b,
+        type: 3}
+    - m_Name: palm2
+      m_Hash: -450629222
+      m_Sprite: {fileID: 3116340909383049571, guid: de69176f0fba9da4e874a3bbd1108692,
+        type: 3}
+    - m_Name: palm4
+      m_Hash: 205542575
+      m_Sprite: {fileID: -6869536555400371509, guid: de69176f0fba9da4e874a3bbd1108692,
+        type: 3}

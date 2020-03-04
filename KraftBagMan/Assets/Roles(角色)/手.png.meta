@@ -11,6 +11,15 @@ TextureImporter:
   - first:
       213: 3116340909383049571
     second: "\u624B_2"
+  - first:
+      213: 5306446590529842549
+    second: "\u624B_0"
+  - first:
+      213: -8372639788209169060
+    second: "\u624B_1"
+  - first:
+      213: 220911565888010189
+    second: "\u624B_2"
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -133,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc2ecc336e08aa0a0800000000000000
-      internalID: -6869536555400371509
+      spriteID: 57d2d103f0944a940800000000000000
+      internalID: 5306446590529842549
       vertices: []
       indices: 
       edges: []
@@ -154,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dde96a5c832099020800000000000000
-      internalID: 2348911123507879645
+      spriteID: c5d9d7709786ecb80800000000000000
+      internalID: -8372639788209169060
       vertices: []
       indices: 
       edges: []
@@ -175,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3616bc6cb877f3b20800000000000000
-      internalID: 3116340909383049571
+      spriteID: dc7b78316e5d01300800000000000000
+      internalID: 220911565888010189
       vertices: []
       indices: 
       edges: []
