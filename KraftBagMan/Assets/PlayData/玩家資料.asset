@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: "\u73A9\u5BB6\u8CC7\u6599"
   m_EditorClassIdentifier: Assembly-CSharp::PlayData
-  Hp: 0
-  MaxHp: 3
-  Speed: 0
-  JumpHeight: 0
+  Hp: 10
+  MaxHp: 15
+  Speed: 1000
+  JumpHeight: 1200
